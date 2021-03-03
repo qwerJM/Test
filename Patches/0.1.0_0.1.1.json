@@ -1,73 +1,43 @@
 {
   "From": "0.1.0",
   "To": "0.1.1",
-  "Hash": "0MTLRFOtHq0KV4bLjtPK+54gt2w",
+  "Hash": "jTtrchq4lVMHnjNeC/ZwMXw6fX4",
   "Entries": [
     {
       "Operation": 2,
-      "RelativePath": "UpdateTest_Data/globalgamemanagers",
+      "RelativePath": "TestGame_Data/globalgamemanagers",
       "Attributes": 32,
-      "LastWriting": "2021-03-03T03:12:09.4195033Z"
+      "LastWriting": "2021-03-03T07:04:45.69564Z"
     },
     {
       "Operation": 2,
-      "RelativePath": "UpdateTest_Data/globalgamemanagers.assets",
+      "RelativePath": "TestGame_Data/Managed/Assembly-CSharp.dll",
       "Attributes": 32,
-      "LastWriting": "2021-03-03T03:12:09.6098042Z"
+      "LastWriting": "2021-03-03T07:04:43.4396361Z"
     },
     {
       "Operation": 2,
-      "RelativePath": "UpdateTest_Data/level0",
+      "RelativePath": "TestGame_Data/Managed/Unity.TextMeshPro.dll",
       "Attributes": 32,
-      "LastWriting": "2021-03-03T03:12:07.9164678Z"
+      "LastWriting": "2021-03-03T07:04:43.2122452Z"
     },
     {
       "Operation": 2,
-      "RelativePath": "UpdateTest_Data/level1",
+      "RelativePath": "TestGame_Data/Managed/Unity.Timeline.dll",
       "Attributes": 32,
-      "LastWriting": "2021-03-03T03:12:08.0227007Z"
+      "LastWriting": "2021-03-03T07:04:43.0825853Z"
     },
     {
       "Operation": 2,
-      "RelativePath": "UpdateTest_Data/sharedassets0.assets",
+      "RelativePath": "TestGame_Data/Managed/UnityEngine.UI.dll",
       "Attributes": 32,
-      "LastWriting": "2021-03-03T03:12:09.6686682Z"
-    },
-    {
-      "Operation": 2,
-      "RelativePath": "UpdateTest_Data/sharedassets1.assets",
-      "Attributes": 32,
-      "LastWriting": "2021-03-03T03:12:09.6746262Z"
-    },
-    {
-      "Operation": 2,
-      "RelativePath": "UpdateTest_Data/Managed/Assembly-CSharp.dll",
-      "Attributes": 32,
-      "LastWriting": "2021-03-03T03:12:07.0509754Z"
-    },
-    {
-      "Operation": 2,
-      "RelativePath": "UpdateTest_Data/Managed/Unity.TextMeshPro.dll",
-      "Attributes": 32,
-      "LastWriting": "2021-03-03T03:12:06.8144037Z"
-    },
-    {
-      "Operation": 2,
-      "RelativePath": "UpdateTest_Data/Managed/Unity.Timeline.dll",
-      "Attributes": 32,
-      "LastWriting": "2021-03-03T03:12:06.6517874Z"
-    },
-    {
-      "Operation": 2,
-      "RelativePath": "UpdateTest_Data/Managed/UnityEngine.UI.dll",
-      "Attributes": 32,
-      "LastWriting": "2021-03-03T03:12:06.1869789Z"
+      "LastWriting": "2021-03-03T07:04:42.5606354Z"
     },
     {
       "Operation": 2,
       "RelativePath": "version.data",
       "Attributes": 32,
-      "LastWriting": "2021-03-03T03:12:39.0811865Z"
+      "LastWriting": "2021-03-03T07:05:48.1724308Z"
     }
   ]
 }
