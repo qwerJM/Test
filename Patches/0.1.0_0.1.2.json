@@ -1,0 +1,43 @@
+{
+  "From": "0.1.0",
+  "To": "0.1.2",
+  "Hash": "CMBzDFc+yc+q9H0S8ErHEoPKUZc",
+  "Entries": [
+    {
+      "Operation": 2,
+      "RelativePath": "TestGame_Data/globalgamemanagers",
+      "Attributes": 32,
+      "LastWriting": "2021-03-03T08:04:34.15434Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "TestGame_Data/Managed/Assembly-CSharp.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-03T08:04:31.4445767Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "TestGame_Data/Managed/Unity.TextMeshPro.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-03T08:04:31.2062348Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "TestGame_Data/Managed/Unity.Timeline.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-03T08:04:31.0675848Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "TestGame_Data/Managed/UnityEngine.UI.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-03T08:04:30.5422356Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "version.data",
+      "Attributes": 32,
+      "LastWriting": "2021-03-03T08:05:42.1346192Z"
+    }
+  ]
+}
