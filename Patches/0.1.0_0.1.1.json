@@ -1,0 +1,73 @@
+{
+  "From": "0.1.0",
+  "To": "0.1.1",
+  "Hash": "jQ0w3iMaixjmlzIqnIsXKvn+tig",
+  "Entries": [
+    {
+      "Operation": 2,
+      "RelativePath": "UpdateTest_Data/globalgamemanagers",
+      "Attributes": 32,
+      "LastWriting": "2021-03-03T03:12:09.4195033Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "UpdateTest_Data/globalgamemanagers.assets",
+      "Attributes": 32,
+      "LastWriting": "2021-03-03T03:12:09.6098042Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "UpdateTest_Data/level0",
+      "Attributes": 32,
+      "LastWriting": "2021-03-03T03:12:07.9164678Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "UpdateTest_Data/level1",
+      "Attributes": 32,
+      "LastWriting": "2021-03-03T03:12:08.0227007Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "UpdateTest_Data/sharedassets0.assets",
+      "Attributes": 32,
+      "LastWriting": "2021-03-03T03:12:09.6686682Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "UpdateTest_Data/sharedassets1.assets",
+      "Attributes": 32,
+      "LastWriting": "2021-03-03T03:12:09.6746262Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "UpdateTest_Data/Managed/Assembly-CSharp.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-03T03:12:07.0509754Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "UpdateTest_Data/Managed/Unity.TextMeshPro.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-03T03:12:06.8144037Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "UpdateTest_Data/Managed/Unity.Timeline.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-03T03:12:06.6517874Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "UpdateTest_Data/Managed/UnityEngine.UI.dll",
+      "Attributes": 32,
+      "LastWriting": "2021-03-03T03:12:06.1869789Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "version.data",
+      "Attributes": 32,
+      "LastWriting": "2021-03-03T03:12:39.0811865Z"
+    }
+  ]
+}
